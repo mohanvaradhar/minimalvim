@@ -1,5 +1,5 @@
 " VIM Configuration File
-" Description: Optimized for C development, but useful also for other things.
+" Description: Optimized for C++ development, but useful also for other things.
 " Author: Rakendra Thapa
 "
 
